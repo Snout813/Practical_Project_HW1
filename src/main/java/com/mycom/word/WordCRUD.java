@@ -105,4 +105,7 @@ public class WordCRUD implements ICRUD{
         System.out.println("검색할 수준을 입력해주세요. =>");
         
     }
+    public void findWord(){
+
+    }
 }
