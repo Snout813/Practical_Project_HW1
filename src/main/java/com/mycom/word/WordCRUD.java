@@ -100,4 +100,9 @@ public class WordCRUD implements ICRUD{
             System.out.println("취소되었습니다.");
         }
     }
+
+    public void listLevel() {
+        System.out.println("검색할 수준을 입력해주세요. =>");
+        
+    }
 }

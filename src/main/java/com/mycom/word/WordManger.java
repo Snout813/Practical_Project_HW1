@@ -27,9 +27,17 @@ public class WordManger {
     public void start(){
         while(true){
             int menu = selectMenu();
-            if (menu == 0) break;
+            if (menu == 0) {
+                System.out.println("프로그램 종료! 다음에 만나요~");
+                break;
+            }
             if (menu == 1){
                 wordCRUD.listALL();
+            }
+            else if (menu==2){
+                wordCRUD.listLevel();
+            }
+            else if (menu ==3){
             }
             else if (menu == 4){
                 wordCRUD.addItem();
@@ -39,6 +47,8 @@ public class WordManger {
             }
             else if (menu == 6){
                 wordCRUD.deleteItem();
+            }
+            else if (menu == 7){
             }
         }
 
