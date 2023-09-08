@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce6e417d-98ce-4428-9d9e-f0ea863c7f1f" name="변경" comment="update line">
+    <list default="true" id="ce6e417d-98ce-4428-9d9e-f0ea863c7f1f" name="변경" comment="create findWord function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,8 @@
       <workItem from="1693837068428" duration="3800000" />
       <workItem from="1693840890927" duration="1798000" />
       <workItem from="1693897051592" duration="8050000" />
-      <workItem from="1694143717178" duration="2091000" />
+      <workItem from="1694143717178" duration="3811000" />
+      <workItem from="1694172901785" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <option name="closed" value="true" />
@@ -101,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694159127084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create findWord function">
+      <option name="closed" value="true" />
+      <created>1694159299101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694159299101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
     <MESSAGE value="update line" />
-    <option name="LAST_COMMIT_MESSAGE" value="update line" />
+    <MESSAGE value="create findWord function" />
+    <option name="LAST_COMMIT_MESSAGE" value="create findWord function" />
   </component>
 </project>
